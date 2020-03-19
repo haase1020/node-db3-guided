@@ -12,7 +12,7 @@ Guided project for **Node DB3** Module.
 
 - [x] fork and clone this repository.
 - [x] **CD into the folder** where you cloned **your fork**.
-- [ ] type `npm i` to download dependencies.
-- [ ] type `npm run server` to start the API.
+- [x] type `npm i` to download dependencies.
+- [x] type `npm run server` to start the API.
 
 Please follow along as the instructor creates database access methods for a multi table schema.
